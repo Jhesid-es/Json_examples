@@ -1,0 +1,3026 @@
+[
+  {
+    "Nº": 1,
+    "Proveedor": "FILS COMPANY UNIBIENES",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 34145.4,
+    "Nota de Entrega": "21/12/2015"
+  },
+  {
+    "Nº": 5,
+    "Proveedor": "FULLOFFICE",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 19250,
+    "Nota de Entrega": "23/12/2015"
+  },
+  {
+    "Nº": 6,
+    "Proveedor": "FULL OFFICE",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1000,
+    "Nota de Entrega": "21/12/2015"
+  },
+  {
+    "Nº": 7,
+    "Proveedor": "JMM",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 10155,
+    "Nota de Entrega": "21/12/2015"
+  },
+  {
+    "Nº": 8,
+    "Proveedor": "JMM",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2945,
+    "Nota de Entrega": "24/12/2015"
+  },
+  {
+    "Nº": 9,
+    "Proveedor": "DISMATEL BOLIVIA SRL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 17220,
+    "Nota de Entrega": "29/12/2015"
+  },
+  {
+    "Nº": 10,
+    "Proveedor": "COMERCIAL R&R",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3942,
+    "Nota de Entrega": "29/12/2015"
+  },
+  {
+    "Nº": 11,
+    "Proveedor": "COMERCIAL R&R",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 4915,
+    "Nota de Entrega": "29/12/2015"
+  },
+  {
+    "Nº": 12,
+    "Proveedor": "COMERCIAL R&R",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 228,
+    "Nota de Entrega": "29/12/2015"
+  },
+  {
+    "Nº": 14,
+    "Proveedor": "ELECTRORED",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 7767.66,
+    "Nota de Entrega": "29/12/2015"
+  },
+  {
+    "Nº": 15,
+    "Proveedor": "IMPRENTA C&R",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 4210,
+    "Nota de Entrega": "30/12/2015"
+  },
+  {
+    "Nº": 16,
+    "Proveedor": "ECOLED",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 12320,
+    "Nota de Entrega": "29/12/2015"
+  },
+  {
+    "Nº": 17,
+    "Proveedor": "TELECOMUNICACIONES BOLIVIA (TLC)",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1425,
+    "Nota de Entrega": "28/12/2015"
+  },
+  {
+    "Nº": 18,
+    "Proveedor": "RONET",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 185,
+    "Nota de Entrega": "15/01/2016"
+  },
+  {
+    "Nº": 19,
+    "Proveedor": "ELECTRORED",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 256.9,
+    "Nota de Entrega": "28/01/2016"
+  },
+  {
+    "Nº": 20,
+    "Proveedor": "ROJAS DISTRIBUCIONES Y REPRESENTACIONES",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3246.5,
+    "Nota de Entrega": "28/01/2016"
+  },
+  {
+    "Nº": 22,
+    "Proveedor": "UNIVERSAL CENTRO ELECTRONICO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 8880,
+    "Nota de Entrega": "29/01/2016"
+  },
+  {
+    "Nº": 23,
+    "Proveedor": "FIBERNET S.R.L.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 10750,
+    "Nota de Entrega": "28/01/2016"
+  },
+  {
+    "Nº": 24,
+    "Proveedor": "TALLER DE LLAVES ORURO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2100,
+    "Nota de Entrega": "29/01/2016"
+  },
+  {
+    "Nº": 25,
+    "Proveedor": "OPTIMA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 28600,
+    "Nota de Entrega": "15/02/2016"
+  },
+  {
+    "Nº": 26,
+    "Proveedor": "MADEPA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 10703.92,
+    "Nota de Entrega": "22/02/2016"
+  },
+  {
+    "Nº": 28,
+    "Proveedor": "WORLD UNION",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 17500,
+    "Nota de Entrega": "05/02/2016"
+  },
+  {
+    "Nº": 29,
+    "Proveedor": "MOTIVAKIT",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2250,
+    "Nota de Entrega": "15/02/2016"
+  },
+  {
+    "Nº": 32,
+    "Proveedor": "COMPUTADORAS P&CH",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 5152,
+    "Nota de Entrega": "26/01/2016"
+  },
+  {
+    "Nº": 33,
+    "Proveedor": "CASAIDEAS",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 4145.02,
+    "Nota de Entrega": "03/03/2016"
+  },
+  {
+    "Nº": 35,
+    "Proveedor": "FERCAT",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 9032,
+    "Nota de Entrega": "08/03/2016"
+  },
+  {
+    "Nº": 36,
+    "Proveedor": "INOVA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3530,
+    "Nota de Entrega": "29/01/2016"
+  },
+  {
+    "Nº": 37,
+    "Proveedor": "PCSTORE",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 14454,
+    "Nota de Entrega": "22/02/2016"
+  },
+  {
+    "Nº": 38,
+    "Proveedor": "TALLER DE LLAVES ORURO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2100,
+    "Nota de Entrega": "25/01/2016"
+  },
+  {
+    "Nº": 39,
+    "Proveedor": "JEB TECNOLOLGIA SRL.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2590,
+    "Nota de Entrega": "10/03/2016"
+  },
+  {
+    "Nº": 40,
+    "Proveedor": "C&C IMPRESIONES",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 12650,
+    "Nota de Entrega": "18/02/2016"
+  },
+  {
+    "Nº": 41,
+    "Proveedor": "JEB TECNOLOLGIA SRL.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3100,
+    "Nota de Entrega": "02/03/2016"
+  },
+  {
+    "Nº": 47,
+    "Proveedor": "J.I.M REPRECAM ELECTRONIC",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2000,
+    "Nota de Entrega": "29/02/2016"
+  },
+  {
+    "Nº": 48,
+    "Proveedor": "SUPER POWER COMPUTADORAS",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 240,
+    "Nota de Entrega": "03/03/2016"
+  },
+  {
+    "Nº": 49,
+    "Proveedor": "ELECTRORED",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 62.03,
+    "Nota de Entrega": "04/03/2016"
+  },
+  {
+    "Nº": 50,
+    "Proveedor": "DJ TECHNOLOGY",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1850,
+    "Nota de Entrega": "17/03/2016"
+  },
+  {
+    "Nº": 51,
+    "Proveedor": "YOEMIS FERRETERIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 6053,
+    "Nota de Entrega": "15/03/2016"
+  },
+  {
+    "Nº": 52,
+    "Proveedor": "CASA RADIOL LTDA.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2410,
+    "Nota de Entrega": "23/03/2016"
+  },
+  {
+    "Nº": 53,
+    "Proveedor": "TECBOLIVIA.COM",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 10683.5,
+    "Nota de Entrega": "28/03/2016"
+  },
+  {
+    "Nº": 54,
+    "Proveedor": "XXL INSUMOS PUBLICITARIOS TRABAJOS PERSONALIZADOS IMPRESIONES",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2280,
+    "Nota de Entrega": "29/03/2016"
+  },
+  {
+    "Nº": 55,
+    "Proveedor": "ENTRO AZUL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 5900.05,
+    "Nota de Entrega": "16/03/2016"
+  },
+  {
+    "Nº": 56,
+    "Proveedor": "CENTRO AZUL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 20000,
+    "Nota de Entrega": "29/03/2016"
+  },
+  {
+    "Nº": 57,
+    "Proveedor": "ELECTROLUX",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1440,
+    "Nota de Entrega": "06/04/2016"
+  },
+  {
+    "Nº": 58,
+    "Proveedor": "ELECTRORED",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 7469.92,
+    "Nota de Entrega": "06/04/2016"
+  },
+  {
+    "Nº": 59,
+    "Proveedor": "UNICARD",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2665,
+    "Nota de Entrega": "08/04/2016"
+  },
+  {
+    "Nº": 60,
+    "Proveedor": "CERRO AZUL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3200,
+    "Nota de Entrega": "25/03/2016"
+  },
+  {
+    "Nº": 61,
+    "Proveedor": "IMPORTADORA DE IDEAS  S.A.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 5031.2,
+    "Nota de Entrega": "12/04/2016"
+  },
+  {
+    "Nº": 62,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1378.41,
+    "Nota de Entrega": "19/04/2016"
+  },
+  {
+    "Nº": 63,
+    "Proveedor": "HILLER ELECTRIC S.A.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 9496.48,
+    "Nota de Entrega": "19/04/2016"
+  },
+  {
+    "Nº": 64,
+    "Proveedor": "TEC BOLIVIA .COM",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 459.36,
+    "Nota de Entrega": "21/04/2016"
+  },
+  {
+    "Nº": 65,
+    "Proveedor": "VIGITRON",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3928,
+    "Nota de Entrega": "22/04/2016"
+  },
+  {
+    "Nº": 66,
+    "Proveedor": "TECBOLIVIA TECNOLOGIA EN BOLIVIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3619,
+    "Nota de Entrega": "22/04/2016"
+  },
+  {
+    "Nº": 67,
+    "Proveedor": "CASA RADIOL LTDA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 9334,
+    "Nota de Entrega": "22/04/2016"
+  },
+  {
+    "Nº": 68,
+    "Proveedor": "TEC.BOLIVIA.COM",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 7592,
+    "Nota de Entrega": "28/04/2016"
+  },
+  {
+    "Nº": 69,
+    "Proveedor": "UNIVERSAL CENTRO ELECTRONICO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1150,
+    "Nota de Entrega": "29/04/2016"
+  },
+  {
+    "Nº": 70,
+    "Proveedor": 566,
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 107.1,
+    "Nota de Entrega": "04/05/2016"
+  },
+  {
+    "Nº": 71,
+    "Proveedor": "MADEPA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2705.6,
+    "Nota de Entrega": "04/05/2016"
+  },
+  {
+    "Nº": 73,
+    "Proveedor": "SOLUCIONES INTELIGENTES",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 4493.04,
+    "Nota de Entrega": "05/05/2016"
+  },
+  {
+    "Nº": 74,
+    "Proveedor": "CASA BETO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 17060,
+    "Nota de Entrega": "04/05/2016"
+  },
+  {
+    "Nº": 75,
+    "Proveedor": "E&G",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 329,
+    "Nota de Entrega": "05/05/2016"
+  },
+  {
+    "Nº": 76,
+    "Proveedor": "EDITORIAL HERMENCA LTDA.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1590,
+    "Nota de Entrega": "22/04/2016"
+  },
+  {
+    "Nº": 77,
+    "Proveedor": "UNICARD",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 6755,
+    "Nota de Entrega": "06/05/2016"
+  },
+  {
+    "Nº": 78,
+    "Proveedor": "YOEMIS FERRETERIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 900,
+    "Nota de Entrega": "06/05/2016"
+  },
+  {
+    "Nº": 79,
+    "Proveedor": "DECOSUR",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 4550.55,
+    "Nota de Entrega": "05/05/2016"
+  },
+  {
+    "Nº": 80,
+    "Proveedor": "DISMATEL BOLIVIA SRL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 5875.5,
+    "Nota de Entrega": "10/05/2016"
+  },
+  {
+    "Nº": 81,
+    "Proveedor": "GEELMED SRL.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 4200,
+    "Nota de Entrega": "06/05/2016"
+  },
+  {
+    "Nº": 82,
+    "Proveedor": "PRUROBIN",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 9536,
+    "Nota de Entrega": "11/05/2016"
+  },
+  {
+    "Nº": 83,
+    "Proveedor": "PRUROBIN",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 7000.75,
+    "Nota de Entrega": "11/05/2016"
+  },
+  {
+    "Nº": 84,
+    "Proveedor": 69,
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2711.68,
+    "Nota de Entrega": "11/05/2016"
+  },
+  {
+    "Nº": 85,
+    "Proveedor": "PRUROBIN",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 13465.8,
+    "Nota de Entrega": "11/05/2016"
+  },
+  {
+    "Nº": 86,
+    "Proveedor": "OLIMPIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 19129,
+    "Nota de Entrega": "06/05/2016"
+  },
+  {
+    "Nº": 87,
+    "Proveedor": "JEB TECNOLOLGIA SRL.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 625,
+    "Nota de Entrega": "18/05/2016"
+  },
+  {
+    "Nº": 88,
+    "Proveedor": "ELECTRO HOGAR",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 16108,
+    "Nota de Entrega": "06/05/2016"
+  },
+  {
+    "Nº": 89,
+    "Proveedor": "TECBOLIVIA TECNOLOGIA EN BOLIVIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 6246.1,
+    "Nota de Entrega": "23/05/2016"
+  },
+  {
+    "Nº": 90,
+    "Proveedor": "YOEMIS FERRETERIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1100,
+    "Nota de Entrega": "24/05/2016"
+  },
+  {
+    "Nº": 91,
+    "Proveedor": "CASA RADIOL LTDA.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3570,
+    "Nota de Entrega": "25/05/2016"
+  },
+  {
+    "Nº": 92,
+    "Proveedor": "FEMCO SRL.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1487.1,
+    "Nota de Entrega": "27/05/2016"
+  },
+  {
+    "Nº": 93,
+    "Proveedor": "MOTIVAKIT",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2856,
+    "Nota de Entrega": "05/04/2016"
+  },
+  {
+    "Nº": 95,
+    "Proveedor": "XXL INSUMOS PUBLICITARIOS TRABAJOS PERSONALIZADOS IMPRESIONES",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2200,
+    "Nota de Entrega": "01/06/2016"
+  },
+  {
+    "Nº": 96,
+    "Proveedor": "ETZEL-RA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3630,
+    "Nota de Entrega": "28/04/2016"
+  },
+  {
+    "Nº": 97,
+    "Proveedor": "ELECTRORED",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 5526.61,
+    "Nota de Entrega": "03/06/2016"
+  },
+  {
+    "Nº": 98,
+    "Proveedor": "COMERCIAL R&R",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 8654,
+    "Nota de Entrega": "31/05/2016"
+  },
+  {
+    "Nº": 99,
+    "Proveedor": "I.E.E. LTDA.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 4249,
+    "Nota de Entrega": "09/05/2016"
+  },
+  {
+    "Nº": 100,
+    "Proveedor": "OPTITEL SRL.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2460,
+    "Nota de Entrega": "10/06/2016"
+  },
+  {
+    "Nº": 101,
+    "Proveedor": "KAMOWI",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 10920,
+    "Nota de Entrega": "11/03/2016"
+  },
+  {
+    "Nº": 102,
+    "Proveedor": "TECHNET",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1900,
+    "Nota de Entrega": "10/06/2016"
+  },
+  {
+    "Nº": 103,
+    "Proveedor": "GEELMED SRL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 6540,
+    "Nota de Entrega": "13/04/2016"
+  },
+  {
+    "Nº": 104,
+    "Proveedor": "PERNO CENTRO LTDA.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3671.68,
+    "Nota de Entrega": "15/06/2016"
+  },
+  {
+    "Nº": 105,
+    "Proveedor": "HILLER ELECTRIC S.A.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3612.94,
+    "Nota de Entrega": "15/06/2016"
+  },
+  {
+    "Nº": 106,
+    "Proveedor": "ANSIL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 5930,
+    "Nota de Entrega": "17/06/2016"
+  },
+  {
+    "Nº": 107,
+    "Proveedor": "L&A",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 740,
+    "Nota de Entrega": "15/06/2016"
+  },
+  {
+    "Nº": 109,
+    "Proveedor": "EXPERT INOVA NETWORKS SRL.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2990,
+    "Nota de Entrega": "24/06/2016"
+  },
+  {
+    "Nº": 111,
+    "Proveedor": "XPRESION",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 5940,
+    "Nota de Entrega": "16/06/2016"
+  },
+  {
+    "Nº": 112,
+    "Proveedor": "JOINT  PRINTERS COMMITTEE SRL.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1200,
+    "Nota de Entrega": "27/05/2016"
+  },
+  {
+    "Nº": 113,
+    "Proveedor": "TECBOLIVIA TECNOLOGIA EN BOLIVIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 4832,
+    "Nota de Entrega": "07/07/2016"
+  },
+  {
+    "Nº": 114,
+    "Proveedor": "WORLD UNION",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3885,
+    "Nota de Entrega": "03/06/2016"
+  },
+  {
+    "Nº": 115,
+    "Proveedor": "COMERCIAL R&R",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 7036,
+    "Nota de Entrega": "14/07/2016"
+  },
+  {
+    "Nº": 116,
+    "Proveedor": "CERRO AZUL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 620,
+    "Nota de Entrega": "30/06/2016"
+  },
+  {
+    "Nº": 117,
+    "Proveedor": "ALVAREZ -KOVAC",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1500,
+    "Nota de Entrega": "20/07/2016"
+  },
+  {
+    "Nº": 119,
+    "Proveedor": "RENGEL IMPORTACIONES S.RL.",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 1500,
+    "Nota de Entrega": "28/07/2016"
+  },
+  {
+    "Nº": 120,
+    "Proveedor": "SATCOM SRL.",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 5100,
+    "Nota de Entrega": "28/07/2016"
+  },
+  {
+    "Nº": 121,
+    "Proveedor": "WORD UNION",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 17822,
+    "Nota de Entrega": "28/06/2016"
+  },
+  {
+    "Nº": 122,
+    "Proveedor": "SOLUCIONES INTELIGENTES",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 17933.36,
+    "Nota de Entrega": "03/08/2016"
+  },
+  {
+    "Nº": 123,
+    "Proveedor": "RONET",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2695,
+    "Nota de Entrega": "01/08/2016"
+  },
+  {
+    "Nº": 124,
+    "Proveedor": "PRUROBIN",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 15344.56,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 125,
+    "Proveedor": "TECBOLIVIA.COM",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 8082.5,
+    "Nota de Entrega": "04/08/2016"
+  },
+  {
+    "Nº": 126,
+    "Proveedor": "OFFICE TERCER MILENIO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 24700,
+    "Nota de Entrega": "24/05/2016"
+  },
+  {
+    "Nº": 127,
+    "Proveedor": "PCSTORE",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 45660,
+    "Nota de Entrega": "09/08/2016"
+  },
+  {
+    "Nº": 128,
+    "Proveedor": "YOEMIS FERRETERIA",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 3560,
+    "Nota de Entrega": "08/08/2016"
+  },
+  {
+    "Nº": 129,
+    "Proveedor": "PIXEL'S PUBLICIDAD",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 4700,
+    "Nota de Entrega": "05/05/2016"
+  },
+  {
+    "Nº": 130,
+    "Proveedor": "FERCAT",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 36161,
+    "Nota de Entrega": "01/08/2016"
+  },
+  {
+    "Nº": 131,
+    "Proveedor": "IMPORTACIONES TEC GROUP G. TECNOLOGIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 8280,
+    "Nota de Entrega": "15/08/2016"
+  },
+  {
+    "Nº": 132,
+    "Proveedor": "CASA BETO",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 1100,
+    "Nota de Entrega": "04/08/2016"
+  },
+  {
+    "Nº": 133,
+    "Proveedor": "MADEPA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2174.1,
+    "Nota de Entrega": "11/08/2016"
+  },
+  {
+    "Nº": 134,
+    "Proveedor": "HILLER ELECTRIC S.A.",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 3427.01,
+    "Nota de Entrega": "22/08/2016"
+  },
+  {
+    "Nº": 135,
+    "Proveedor": "IBNORCA",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 6069,
+    "Nota de Entrega": "26/08/2016"
+  },
+  {
+    "Nº": 136,
+    "Proveedor": "OPTITEL SRL.",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 480,
+    "Nota de Entrega": "05/09/2016"
+  },
+  {
+    "Nº": 138,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 3505,
+    "Nota de Entrega": "08/09/2016"
+  },
+  {
+    "Nº": 139,
+    "Proveedor": "OPTITEL SRL.",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 6358,
+    "Nota de Entrega": "07/09/2016"
+  },
+  {
+    "Nº": 140,
+    "Proveedor": "CREATIVE CONSULTING GROUP SRL.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2225,
+    "Nota de Entrega": "08/09/2016"
+  },
+  {
+    "Nº": 141,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3505,
+    "Nota de Entrega": "08/09/2016"
+  },
+  {
+    "Nº": 142,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3505,
+    "Nota de Entrega": "08/09/2016"
+  },
+  {
+    "Nº": 148,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 1528.5,
+    "Nota de Entrega": "06/09/2016"
+  },
+  {
+    "Nº": 149,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 2131.29,
+    "Nota de Entrega": "03/09/2016"
+  },
+  {
+    "Nº": 150,
+    "Proveedor": "XPRESION",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 5980,
+    "Nota de Entrega": "16/09/2016"
+  },
+  {
+    "Nº": 151,
+    "Proveedor": "TECHNET",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 1900,
+    "Nota de Entrega": "19/09/2016"
+  },
+  {
+    "Nº": 152,
+    "Proveedor": "CREATIVO COMPUTACION & SISTEMA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 885,
+    "Nota de Entrega": "22/09/2016"
+  },
+  {
+    "Nº": 153,
+    "Proveedor": "GEELMED SRL.",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 4980,
+    "Nota de Entrega": "26/09/2016"
+  },
+  {
+    "Nº": 154,
+    "Proveedor": "WORLD UNION",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 14658,
+    "Nota de Entrega": "23/09/2016"
+  },
+  {
+    "Nº": 155,
+    "Proveedor": "JMM",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 13231.5,
+    "Nota de Entrega": "06/10/2016"
+  },
+  {
+    "Nº": 156,
+    "Proveedor": "SOLUCIONES INTELIGENTES",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1233.84,
+    "Nota de Entrega": "11/10/2016"
+  },
+  {
+    "Nº": 157,
+    "Proveedor": "PRUROBIN",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 5575.3,
+    "Nota de Entrega": "11/10/2016"
+  },
+  {
+    "Nº": 158,
+    "Proveedor": "PRUROBIN",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1029.2,
+    "Nota de Entrega": "11/10/2016"
+  },
+  {
+    "Nº": 159,
+    "Proveedor": "DAIFO TELECOM SRL.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1316,
+    "Nota de Entrega": "11/10/2016"
+  },
+  {
+    "Nº": 160,
+    "Proveedor": "PCSTORE",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2925,
+    "Nota de Entrega": "12/10/2016"
+  },
+  {
+    "Nº": 161,
+    "Proveedor": "CREATIVE CONSULTING GROUP SRL.",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 20670,
+    "Nota de Entrega": "12/10/2016"
+  },
+  {
+    "Nº": 162,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 14688,
+    "Nota de Entrega": "13/10/2016"
+  },
+  {
+    "Nº": 163,
+    "Proveedor": "CREATIVO COMPUTACION & SISTEMA",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 2368.56,
+    "Nota de Entrega": "17/10/2016"
+  },
+  {
+    "Nº": 164,
+    "Proveedor": "SYMBIAX",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 9865,
+    "Nota de Entrega": "18/10/2016"
+  },
+  {
+    "Nº": 165,
+    "Proveedor": "CREATIVO COMPUTACION & SISTEMA",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 48700,
+    "Nota de Entrega": "18/10/2016"
+  },
+  {
+    "Nº": 166,
+    "Proveedor": "EXPERT INOVA NETWORKS SRL.",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 1789,
+    "Nota de Entrega": "18/10/2016"
+  },
+  {
+    "Nº": 167,
+    "Proveedor": "MADEPA",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 1060.43,
+    "Nota de Entrega": "07/10/2016"
+  },
+  {
+    "Nº": 168,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 5055,
+    "Nota de Entrega": "15/10/2016"
+  },
+  {
+    "Nº": 169,
+    "Proveedor": "PCSTORE",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 1523,
+    "Nota de Entrega": "18/11/2016"
+  },
+  {
+    "Nº": 170,
+    "Proveedor": "F5 ACTUALIZATE",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 5100,
+    "Nota de Entrega": "18/11/2016"
+  },
+  {
+    "Nº": 171,
+    "Proveedor": "CERTIKA SRL.",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 83038.65,
+    "Nota de Entrega": "18/11/2016"
+  },
+  {
+    "Nº": 172,
+    "Proveedor": "SUPER POWER COMPUTADORAS",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 2850,
+    "Nota de Entrega": "23/11/2016"
+  },
+  {
+    "Nº": 173,
+    "Proveedor": "XTREME PC",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 12032,
+    "Nota de Entrega": "30/11/2016"
+  },
+  {
+    "Nº": 174,
+    "Proveedor": "FRAMIBOL IMPORT & EXPORT",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 760,
+    "Nota de Entrega": "01/12/2016"
+  },
+  {
+    "Nº": 176,
+    "Proveedor": "IMPORTADORA SUR S.R.L.",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 16290.7,
+    "Nota de Entrega": "02/12/2016"
+  },
+  {
+    "Nº": 177,
+    "Proveedor": "FULL OFFICE",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 7395,
+    "Nota de Entrega": "12/12/2016"
+  },
+  {
+    "Nº": 178,
+    "Proveedor": "WORLD UNION",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 45818.62,
+    "Nota de Entrega": "09/12/2016"
+  },
+  {
+    "Nº": 179,
+    "Proveedor": "GEELMED SRL.",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 6600,
+    "Nota de Entrega": "09/12/2016"
+  },
+  {
+    "Nº": 180,
+    "Proveedor": "HANSA LTDA.",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 7719.33,
+    "Nota de Entrega": "13/12/2016"
+  },
+  {
+    "Nº": 182,
+    "Proveedor": "SAWERS SRL",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 19980,
+    "Nota de Entrega": "23/12/2016"
+  },
+  {
+    "Nº": 183,
+    "Proveedor": "FERCAT",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 58811,
+    "Nota de Entrega": "23/12/2016"
+  },
+  {
+    "Nº": 184,
+    "Proveedor": "WORD UNION",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 28139,
+    "Nota de Entrega": "23/12/2016"
+  },
+  {
+    "Nº": 185,
+    "Proveedor": "YOEMIS FERRETERIA",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 3752,
+    "Nota de Entrega": "27/12/2016"
+  },
+  {
+    "Nº": 186,
+    "Proveedor": "PRUROBIN",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 2850.04,
+    "Nota de Entrega": "27/12/2016"
+  },
+  {
+    "Nº": 187,
+    "Proveedor": "SOLUCIONES INTELIGENTES",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 924.96,
+    "Nota de Entrega": "27/12/2016"
+  },
+  {
+    "Nº": 188,
+    "Proveedor": "JMM",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 26537.8,
+    "Nota de Entrega": "28/12/2016"
+  },
+  {
+    "Nº": 189,
+    "Proveedor": "MADEPA",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 1843.97,
+    "Nota de Entrega": "28/12/2016"
+  },
+  {
+    "Nº": 190,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "BLADIMIR HUGO RAMIREZ BURGOA",
+    "Costo total": 10832,
+    "Nota de Entrega": "29/12/2016"
+  },
+  {
+    "Nº": 192,
+    "Proveedor": "SOLUCIONES INTELIGENTES",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 4558.01,
+    "Nota de Entrega": "10/03/2017"
+  },
+  {
+    "Nº": 193,
+    "Proveedor": "MADEPA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2026.28,
+    "Nota de Entrega": "14/03/2017"
+  },
+  {
+    "Nº": 194,
+    "Proveedor": "E&G",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1645,
+    "Nota de Entrega": "14/03/2017"
+  },
+  {
+    "Nº": 195,
+    "Proveedor": "IMPEXPAP S.A.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2100,
+    "Nota de Entrega": "15/03/2017"
+  },
+  {
+    "Nº": 196,
+    "Proveedor": "PCSTORE",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 21525,
+    "Nota de Entrega": "17/03/2017"
+  },
+  {
+    "Nº": 197,
+    "Proveedor": "JHIRE TECHNOLOGHY",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 9144,
+    "Nota de Entrega": "17/03/2017"
+  },
+  {
+    "Nº": 198,
+    "Proveedor": "YOEMIS FERRETERIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 7160,
+    "Nota de Entrega": "27/03/2017"
+  },
+  {
+    "Nº": 199,
+    "Proveedor": "TITAN",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1411,
+    "Nota de Entrega": "06/04/2017"
+  },
+  {
+    "Nº": 200,
+    "Proveedor": "OPTITEL SRL.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 850,
+    "Nota de Entrega": "19/04/2017"
+  },
+  {
+    "Nº": 201,
+    "Proveedor": "ELECTRORED",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1867.29,
+    "Nota de Entrega": "20/04/2017"
+  },
+  {
+    "Nº": 202,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2317,
+    "Nota de Entrega": "25/04/2017"
+  },
+  {
+    "Nº": 203,
+    "Proveedor": "IMPORTACIONES Y REPRESENTACIONES TEC",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 890,
+    "Nota de Entrega": "09/05/2017"
+  },
+  {
+    "Nº": 204,
+    "Proveedor": "JMM",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1950.2,
+    "Nota de Entrega": "16/06/2017"
+  },
+  {
+    "Nº": 205,
+    "Proveedor": "SOLUCIONES INTELIGENTES",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 6840,
+    "Nota de Entrega": "19/06/2017"
+  },
+  {
+    "Nº": 206,
+    "Proveedor": "MICROELECTRONICA MARQUEZ",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1100,
+    "Nota de Entrega": "19/06/2017"
+  },
+  {
+    "Nº": 207,
+    "Proveedor": "ELECTRO HOGAR",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3320,
+    "Nota de Entrega": "20/06/2017"
+  },
+  {
+    "Nº": 208,
+    "Proveedor": "XXL INSUMOS PUBLICITARIOS TRABAJOS PERSONALIZADOS IMPRESIONES",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3200,
+    "Nota de Entrega": "23/06/2017"
+  },
+  {
+    "Nº": 209,
+    "Proveedor": "MADEPA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 329.4,
+    "Nota de Entrega": "23/06/2017"
+  },
+  {
+    "Nº": 210,
+    "Proveedor": "ELECTRORED",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 620.2,
+    "Nota de Entrega": "20/07/2017"
+  },
+  {
+    "Nº": 211,
+    "Proveedor": "OPTITEL SRL.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 13988,
+    "Nota de Entrega": "20/07/2017"
+  },
+  {
+    "Nº": 212,
+    "Proveedor": "F5 ACTUALIZATE",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3500,
+    "Nota de Entrega": "25/07/2017"
+  },
+  {
+    "Nº": 213,
+    "Proveedor": "FERROPLASTICOS",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 525,
+    "Nota de Entrega": "28/07/2017"
+  },
+  {
+    "Nº": 214,
+    "Proveedor": "OPTITEL SRL.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 666,
+    "Nota de Entrega": "02/08/2017"
+  },
+  {
+    "Nº": 215,
+    "Proveedor": "JMM",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 12626,
+    "Nota de Entrega": "11/08/2017"
+  },
+  {
+    "Nº": 216,
+    "Proveedor": "UNICARD",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3085,
+    "Nota de Entrega": "18/08/2017"
+  },
+  {
+    "Nº": 217,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 15482.3,
+    "Nota de Entrega": "18/08/2017"
+  },
+  {
+    "Nº": 218,
+    "Proveedor": "YAMABOL S.R.L.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1795,
+    "Nota de Entrega": "22/08/2017"
+  },
+  {
+    "Nº": 219,
+    "Proveedor": "ALVAREZ -KOVAC",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 400,
+    "Nota de Entrega": "25/08/2017"
+  },
+  {
+    "Nº": 220,
+    "Proveedor": "RELOJERIA FRANKLIN",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1100,
+    "Nota de Entrega": "25/08/2017"
+  },
+  {
+    "Nº": 221,
+    "Proveedor": "IMPEXPAP S.A.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3150,
+    "Nota de Entrega": "28/08/2017"
+  },
+  {
+    "Nº": 222,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 33824.3,
+    "Nota de Entrega": "13/09/2017"
+  },
+  {
+    "Nº": 223,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1796,
+    "Nota de Entrega": "11/09/2017"
+  },
+  {
+    "Nº": 224,
+    "Proveedor": "SAWERS SRL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 800,
+    "Nota de Entrega": "11/09/2017"
+  },
+  {
+    "Nº": 225,
+    "Proveedor": "CASA RADIOL LTDA.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1160,
+    "Nota de Entrega": "20/09/2017"
+  },
+  {
+    "Nº": 226,
+    "Proveedor": "IBNORCA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 7058,
+    "Nota de Entrega": "22/09/2017"
+  },
+  {
+    "Nº": 227,
+    "Proveedor": "ACCESS NET INTERNATIONAL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 980,
+    "Nota de Entrega": "26/09/2017"
+  },
+  {
+    "Nº": 228,
+    "Proveedor": "SAWERS SRL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1921.2,
+    "Nota de Entrega": "03/10/2017"
+  },
+  {
+    "Nº": 230,
+    "Proveedor": "TITAN",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1600,
+    "Nota de Entrega": "05/10/2017"
+  },
+  {
+    "Nº": 231,
+    "Proveedor": "GLOBAL DECORACIONES",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 26700,
+    "Nota de Entrega": "06/10/2017"
+  },
+  {
+    "Nº": 232,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 15525.3,
+    "Nota de Entrega": "18/10/2017"
+  },
+  {
+    "Nº": 233,
+    "Proveedor": "GLOBAL DECORACIONES",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 29400,
+    "Nota de Entrega": "30/10/2017"
+  },
+  {
+    "Nº": 234,
+    "Proveedor": "SAWERS SRL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 7350,
+    "Nota de Entrega": "01/11/2017"
+  },
+  {
+    "Nº": 235,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 4815,
+    "Nota de Entrega": "13/11/2017"
+  },
+  {
+    "Nº": 236,
+    "Proveedor": "ALTERNATIVA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 4800,
+    "Nota de Entrega": "14/11/2017"
+  },
+  {
+    "Nº": 237,
+    "Proveedor": "ETZEL-RA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 4845,
+    "Nota de Entrega": "17/11/2017"
+  },
+  {
+    "Nº": 238,
+    "Proveedor": "YOEMIS FERRETERIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1572,
+    "Nota de Entrega": "04/12/2017"
+  },
+  {
+    "Nº": 239,
+    "Proveedor": "ARCA DECORACIONES",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 5358,
+    "Nota de Entrega": "05/12/2017"
+  },
+  {
+    "Nº": 240,
+    "Proveedor": "IMPRESION DIGITAL NARANJA PRINT S.R.L.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3000,
+    "Nota de Entrega": "12/12/2017"
+  },
+  {
+    "Nº": 241,
+    "Proveedor": "AUTORED",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 7238.4,
+    "Nota de Entrega": "12/12/2017"
+  },
+  {
+    "Nº": 242,
+    "Proveedor": "SOMINFOR",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 32546.92,
+    "Nota de Entrega": "13/12/2017"
+  },
+  {
+    "Nº": 243,
+    "Proveedor": "SUPER POWER COMPUTADORAS",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 7540,
+    "Nota de Entrega": "15/12/2017"
+  },
+  {
+    "Nº": 244,
+    "Proveedor": "ALVAREZ -KOVAC",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1290,
+    "Nota de Entrega": "18/12/2017"
+  },
+  {
+    "Nº": 245,
+    "Proveedor": "ELECTRORED",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 4075.54,
+    "Nota de Entrega": "18/12/2017"
+  },
+  {
+    "Nº": 246,
+    "Proveedor": "ALVAREZ -KOVAC",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2880,
+    "Nota de Entrega": "18/12/2017"
+  },
+  {
+    "Nº": 247,
+    "Proveedor": "F5 ACTUALIZATE",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 18931.5,
+    "Nota de Entrega": "21/12/2017"
+  },
+  {
+    "Nº": 248,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 44241.5,
+    "Nota de Entrega": "22/12/2017"
+  },
+  {
+    "Nº": 249,
+    "Proveedor": "JMM",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 24880,
+    "Nota de Entrega": "31/01/2018"
+  },
+  {
+    "Nº": 250,
+    "Proveedor": "QDC IMPORTACIONES S.R.L.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 11474.7,
+    "Nota de Entrega": "15/02/2018"
+  },
+  {
+    "Nº": 251,
+    "Proveedor": "AEROPIX",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 18758.64,
+    "Nota de Entrega": "22/02/2018"
+  },
+  {
+    "Nº": 252,
+    "Proveedor": "TECNOLOGIA DE ALTO RENDIMIENTO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 12414,
+    "Nota de Entrega": "02/03/2018"
+  },
+  {
+    "Nº": 253,
+    "Proveedor": "ELECTROMETAL QUIS",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 5200,
+    "Nota de Entrega": "02/03/2018"
+  },
+  {
+    "Nº": 254,
+    "Proveedor": "SAWERS SRL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 14510.37,
+    "Nota de Entrega": "06/03/2018"
+  },
+  {
+    "Nº": 255,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 26131.5,
+    "Nota de Entrega": "12/03/2018"
+  },
+  {
+    "Nº": 256,
+    "Proveedor": "SAWERS SRL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 43748.95,
+    "Nota de Entrega": "16/03/2018"
+  },
+  {
+    "Nº": 257,
+    "Proveedor": "APLICACIONES TECNOLOGICAS",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 9135,
+    "Nota de Entrega": "23/03/2018"
+  },
+  {
+    "Nº": 258,
+    "Proveedor": "XXL INSUMOS PUBLICITARIOS TRABAJOS PERSONALIZADOS IMPRESIONES",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 6210,
+    "Nota de Entrega": "26/03/2018"
+  },
+  {
+    "Nº": 259,
+    "Proveedor": "SAWERS SRL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 5410,
+    "Nota de Entrega": "02/04/2018"
+  },
+  {
+    "Nº": 260,
+    "Proveedor": "HILLER ELECTRIC S.A.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2483.06,
+    "Nota de Entrega": "02/04/2018"
+  },
+  {
+    "Nº": 261,
+    "Proveedor": "GISMART SRL.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3591.13,
+    "Nota de Entrega": "03/04/2018"
+  },
+  {
+    "Nº": 262,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 13455.9,
+    "Nota de Entrega": "03/04/2018"
+  },
+  {
+    "Nº": 263,
+    "Proveedor": "SUPER POWER COMPUTADORAS",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3525,
+    "Nota de Entrega": "03/04/2018"
+  },
+  {
+    "Nº": 264,
+    "Proveedor": "ELECTRORED",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 6032.26,
+    "Nota de Entrega": "03/04/2018"
+  },
+  {
+    "Nº": 265,
+    "Proveedor": "REINGRESO DEPOSITO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "11/04/2018"
+  },
+  {
+    "Nº": 266,
+    "Proveedor": "REINGRESO COCINA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "11/04/2018"
+  },
+  {
+    "Nº": 267,
+    "Proveedor": "REINGRESO COCINA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "13/04/2018"
+  },
+  {
+    "Nº": 268,
+    "Proveedor": "TELECOMUNICACIONES BOLIVIA (TLC)",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2475,
+    "Nota de Entrega": "09/04/2018"
+  },
+  {
+    "Nº": 269,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 15771.85,
+    "Nota de Entrega": "12/04/2018"
+  },
+  {
+    "Nº": 270,
+    "Proveedor": "BOLDATASAT",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 10727.8,
+    "Nota de Entrega": "13/04/2018"
+  },
+  {
+    "Nº": 271,
+    "Proveedor": "REINGRESO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "23/04/2018"
+  },
+  {
+    "Nº": 272,
+    "Proveedor": "TELECOMUNICACIONES BOLIVIA (TLC)",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 11407,
+    "Nota de Entrega": "12/04/2018"
+  },
+  {
+    "Nº": 273,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2520,
+    "Nota de Entrega": "23/04/2018"
+  },
+  {
+    "Nº": 274,
+    "Proveedor": "REINGRESO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "30/04/2018"
+  },
+  {
+    "Nº": 275,
+    "Proveedor": "REINGRESO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "30/04/2018"
+  },
+  {
+    "Nº": 276,
+    "Proveedor": "AUTORED",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 21715.2,
+    "Nota de Entrega": "27/04/2018"
+  },
+  {
+    "Nº": 277,
+    "Proveedor": "EKIPOS MAC SRL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 770,
+    "Nota de Entrega": "09/05/2018"
+  },
+  {
+    "Nº": 278,
+    "Proveedor": "BOLDATASAT",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1184,
+    "Nota de Entrega": "10/05/2018"
+  },
+  {
+    "Nº": 279,
+    "Proveedor": "NEOLOGIC SRL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 680,
+    "Nota de Entrega": "10/05/2018"
+  },
+  {
+    "Nº": 280,
+    "Proveedor": "LIMPIEZA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "11/05/2018"
+  },
+  {
+    "Nº": 281,
+    "Proveedor": "GARDEN BOLIVIA SRL.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 430,
+    "Nota de Entrega": "14/05/2018"
+  },
+  {
+    "Nº": 282,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 88800,
+    "Nota de Entrega": "15/05/2018"
+  },
+  {
+    "Nº": 283,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 10560,
+    "Nota de Entrega": "16/05/2018"
+  },
+  {
+    "Nº": 284,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 690,
+    "Nota de Entrega": "17/05/2018"
+  },
+  {
+    "Nº": 285,
+    "Proveedor": "YAMABOL S.R.L.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 5865,
+    "Nota de Entrega": "29/05/2018"
+  },
+  {
+    "Nº": 286,
+    "Proveedor": "ELECTRORED",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2044.21,
+    "Nota de Entrega": "01/06/2018"
+  },
+  {
+    "Nº": 287,
+    "Proveedor": "JMM",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 497,
+    "Nota de Entrega": "04/06/2018"
+  },
+  {
+    "Nº": 288,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 124230,
+    "Nota de Entrega": "08/06/0218"
+  },
+  {
+    "Nº": 289,
+    "Proveedor": "SAGITARIO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 2467,
+    "Nota de Entrega": "20/06/0218"
+  },
+  {
+    "Nº": 290,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 4200,
+    "Nota de Entrega": "20/06/2018"
+  },
+  {
+    "Nº": 291,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 7490,
+    "Nota de Entrega": "14/06/0218"
+  },
+  {
+    "Nº": 292,
+    "Proveedor": "IDESCO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 736,
+    "Nota de Entrega": "26/06/2018"
+  },
+  {
+    "Nº": 293,
+    "Proveedor": "SAWERS SRL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 19660,
+    "Nota de Entrega": "27/06/2018"
+  },
+  {
+    "Nº": 294,
+    "Proveedor": "REINGRESO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "19/07/2018"
+  },
+  {
+    "Nº": 295,
+    "Proveedor": "REINGRESO DE TOKEN",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "02/08/2018"
+  },
+  {
+    "Nº": 296,
+    "Proveedor": "REINGRESO DE LIBROS",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "02/08/2018"
+  },
+  {
+    "Nº": 298,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 14600,
+    "Nota de Entrega": "09/07/2018"
+  },
+  {
+    "Nº": 299,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3480,
+    "Nota de Entrega": "06/07/2018"
+  },
+  {
+    "Nº": 300,
+    "Proveedor": "WORLD UNION",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 50000,
+    "Nota de Entrega": "27/07/2018"
+  },
+  {
+    "Nº": 301,
+    "Proveedor": "BETTY CONDORI",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 815,
+    "Nota de Entrega": "27/07/2018"
+  },
+  {
+    "Nº": 302,
+    "Proveedor": "JHONSON AMARU",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1196,
+    "Nota de Entrega": "30/07/2018"
+  },
+  {
+    "Nº": 303,
+    "Proveedor": "JMM",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 6900,
+    "Nota de Entrega": "08/08/2018"
+  },
+  {
+    "Nº": 304,
+    "Proveedor": "REINGRESO JURIDICA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "21/08/2018"
+  },
+  {
+    "Nº": 305,
+    "Proveedor": "REINGRESO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "03/09/2018"
+  },
+  {
+    "Nº": 306,
+    "Proveedor": "REINGRESO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "04/09/2018"
+  },
+  {
+    "Nº": 307,
+    "Proveedor": "REINGRESO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "04/09/2018"
+  },
+  {
+    "Nº": 308,
+    "Proveedor": "REREINGRESO DE MATERIAL DE LIMPIEZA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "04/09/2018"
+  },
+  {
+    "Nº": 309,
+    "Proveedor": "REINGRESO  AGETIC-UAF/IT/0175/2018",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "11/09/2018"
+  },
+  {
+    "Nº": 310,
+    "Proveedor": "REINGRESO NOEMI MARISOL MAMANI HUANCA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "11/09/2018"
+  },
+  {
+    "Nº": 311,
+    "Proveedor": "REINGRESO AGETIC-UAF/IT/0175/2018",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "11/09/2018"
+  },
+  {
+    "Nº": 312,
+    "Proveedor": "IBNORCA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 7847,
+    "Nota de Entrega": "05/09/2018"
+  },
+  {
+    "Nº": 313,
+    "Proveedor": "F5 ACTUALIZATE",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 11863,
+    "Nota de Entrega": "24/09/2018"
+  },
+  {
+    "Nº": 314,
+    "Proveedor": "TECNOLOGIA DE ALTO RENDIMIENTO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 27098,
+    "Nota de Entrega": "25/09/2018"
+  },
+  {
+    "Nº": 315,
+    "Proveedor": "SAWERS SRL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 5278,
+    "Nota de Entrega": "01/10/2018"
+  },
+  {
+    "Nº": 316,
+    "Proveedor": "REINGRESO MARIELA PADILLA CALLEJAS TOKEN 160924AJ12724H",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "01/10/2018"
+  },
+  {
+    "Nº": 317,
+    "Proveedor": "REINGRESO ILSSEN PAMELA CASTILLO VILLARROEL TOKEN  160924AJ12656H",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "01/10/2018"
+  },
+  {
+    "Nº": 318,
+    "Proveedor": "REINGRESO DEPOSITO DE ACCESORIOS DE SERVIDORES (DAVIS)",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "04/10/2018"
+  },
+  {
+    "Nº": 319,
+    "Proveedor": "ASTONN PUBLICIDAD",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 4400,
+    "Nota de Entrega": "24/09/2018"
+  },
+  {
+    "Nº": 320,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1890,
+    "Nota de Entrega": "31/07/0218"
+  },
+  {
+    "Nº": 321,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 8390,
+    "Nota de Entrega": "20/08/2018"
+  },
+  {
+    "Nº": 322,
+    "Proveedor": "OXIMBOL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 1800,
+    "Nota de Entrega": "16/10/2018"
+  },
+  {
+    "Nº": 323,
+    "Proveedor": "WITRONIX",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 4400,
+    "Nota de Entrega": "24/10/2018"
+  },
+  {
+    "Nº": 324,
+    "Proveedor": "REINGRESO PEDIDO No. 333 JORGE RAMOS",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "24/10/2018"
+  },
+  {
+    "Nº": 325,
+    "Proveedor": "REINGRESO TOKEN JAVIER ALEJANDRO CLAROS MORENO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "01/11/2018"
+  },
+  {
+    "Nº": 326,
+    "Proveedor": "TELECOMUNICACIONES BOLIVIA (TLC)",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 6600,
+    "Nota de Entrega": "29/10/2018"
+  },
+  {
+    "Nº": 327,
+    "Proveedor": "SAWERS SRL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 16375,
+    "Nota de Entrega": "25/10/2018"
+  },
+  {
+    "Nº": 328,
+    "Proveedor": "AEROPIX",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 7795.2,
+    "Nota de Entrega": "05/11/2018"
+  },
+  {
+    "Nº": 329,
+    "Proveedor": "REINGRESO CHIP DE TELEFONIA MOVIL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "08/11/2018"
+  },
+  {
+    "Nº": 330,
+    "Proveedor": "REINGRESO EVER ARGOLLO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "13/11/2018"
+  },
+  {
+    "Nº": 331,
+    "Proveedor": "REINGRESO Judith Tania Apaza Marca TOKEN No. 161019AJ01704H",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "14/11/2018"
+  },
+  {
+    "Nº": 332,
+    "Proveedor": "JMM",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 6624,
+    "Nota de Entrega": "16/11/2018"
+  },
+  {
+    "Nº": 333,
+    "Proveedor": "BOLDATASAT",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 49640,
+    "Nota de Entrega": "19/11/2018"
+  },
+  {
+    "Nº": 334,
+    "Proveedor": "IMPRESION DIGITAL NARANJA PRINT S.R.L.",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 325,
+    "Nota de Entrega": "21/11/2018"
+  },
+  {
+    "Nº": 335,
+    "Proveedor": "SAWERS SRL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 11692,
+    "Nota de Entrega": "11/12/2018"
+  },
+  {
+    "Nº": 336,
+    "Proveedor": "SAWERS SRL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 49195,
+    "Nota de Entrega": "11/12/2018"
+  },
+  {
+    "Nº": 337,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3705,
+    "Nota de Entrega": "16/11/2018"
+  },
+  {
+    "Nº": 338,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 3240,
+    "Nota de Entrega": "21/12/2018"
+  },
+  {
+    "Nº": 339,
+    "Proveedor": "REINGRESO GUILLERMO MIGUEL VILLARROEL",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "24/12/2018"
+  },
+  {
+    "Nº": 340,
+    "Proveedor": "REINGRESO HANS ALBERTO QUIROZ OROS",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "24/12/2018"
+  },
+  {
+    "Nº": 341,
+    "Proveedor": "REINGRESO",
+    "Encargado(a)": "MIGUEL ANGEL LIZARAZU RIOS",
+    "Costo total": 0,
+    "Nota de Entrega": "27/12/2018"
+  },
+  {
+    "Nº": 342,
+    "Proveedor": "REINGRESO TOKEN (DEVOLUCIONES POR CONCLUSION CONSULTORIAS INDIVIDUALES DE LINEA 2018)",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "07/01/2019"
+  },
+  {
+    "Nº": 343,
+    "Proveedor": "REINGRESO (ERROR INVOLUNTARIO NOTA DE PEDIDO 18)",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "25/01/2019"
+  },
+  {
+    "Nº": 348,
+    "Proveedor": "dxt Soluciones de: Francisco Huanca Palli",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 780,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 349,
+    "Proveedor": "SUPER POWER COMPUTADORAS",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 9000,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 350,
+    "Proveedor": "CASA SEGURA de JOE CHARLES ARISPE LAZARTE",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 780,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 351,
+    "Proveedor": "CASA VANELLY de VLADIMIR GABY VALVERDE QUIROZ",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 690,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 352,
+    "Proveedor": "DESARROLLO DE SERVICIOS S.A",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 66660,
+    "Nota de Entrega": "27/02/2019"
+  },
+  {
+    "Nº": 353,
+    "Proveedor": "VENTA DE COMPUTADORAS E INSUMOS de Veronica Nancy Laura Sanchez",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 975,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 354,
+    "Proveedor": "TELECOMUNICACIONES BOLIVIA (TLC)",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 700,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 355,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 3250,
+    "Nota de Entrega": "25/03/2019"
+  },
+  {
+    "Nº": 356,
+    "Proveedor": "TECHNET",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 169260,
+    "Nota de Entrega": "26/03/2019"
+  },
+  {
+    "Nº": 357,
+    "Proveedor": "FILS COMPANY SRL.",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 11306.7,
+    "Nota de Entrega": "27/03/2019"
+  },
+  {
+    "Nº": 358,
+    "Proveedor": "REINGRESO DE TOKEN (regularización de devolución por consultores Gestión 2018, Martin Meruvia, Daniel Viscarra, Ariel Alvarado)",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 359,
+    "Proveedor": "REINGRESO DE FLASH MEMORY DE 8GB SEGUN INFORME TECNICO AGETIC-UAF/IT/0071/2019",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 360,
+    "Proveedor": "OPTIMA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 15422,
+    "Nota de Entrega": "04/04/2019"
+  },
+  {
+    "Nº": 361,
+    "Proveedor": "REINGRESO MATERIAL DE LIMPIEZA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 362,
+    "Proveedor": "REINGRESO MATERIAL DE LIMPIEZA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 363,
+    "Proveedor": "KAUTSCH S.R.L.",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 840,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 364,
+    "Proveedor": "MUEBLES REY de: REYNALDO WILLY RIOS HUANCA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 1850,
+    "Nota de Entrega": "14/05/2019"
+  },
+  {
+    "Nº": 365,
+    "Proveedor": "PATHNET SOLUTIONS S.R.L.",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 35390,
+    "Nota de Entrega": "20/05/2019"
+  },
+  {
+    "Nº": 366,
+    "Proveedor": "REINGRESO DE MATERIALES - INFORME TECNICO AGETIC-UAF/IT/0088/2019",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 367,
+    "Proveedor": "REINGRESO DE TOKENS (Miguel Lizarazu, Laura Velasco, Brayan Salinas, Juan Gabriel Torrez",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "20/05/2019"
+  },
+  {
+    "Nº": 368,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 2170,
+    "Nota de Entrega": "27/05/2019"
+  },
+  {
+    "Nº": 369,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 660,
+    "Nota de Entrega": "28/05/2019"
+  },
+  {
+    "Nº": 370,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 1200,
+    "Nota de Entrega": "27/05/2019"
+  },
+  {
+    "Nº": 371,
+    "Proveedor": "DISTRIBUIDORA CAROLINA de: José Oscar Pinaya Cortez",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 4275,
+    "Nota de Entrega": "30/05/2019"
+  },
+  {
+    "Nº": 372,
+    "Proveedor": "SISVITEL S.R.L.",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 7230,
+    "Nota de Entrega": "30/05/2019"
+  },
+  {
+    "Nº": 373,
+    "Proveedor": "VELEZ VELEZ",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 2471,
+    "Nota de Entrega": "30/05/2019"
+  },
+  {
+    "Nº": 374,
+    "Proveedor": "TECHNET BOLIVIA S.R.L.",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 1190,
+    "Nota de Entrega": "03/06/2019"
+  },
+  {
+    "Nº": 375,
+    "Proveedor": "REINGRESO DE TOKEN -DEVOLUCION DILIAN QUEA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "23/05/2019"
+  },
+  {
+    "Nº": 376,
+    "Proveedor": "REINGRESO MATERIAL DE LIMPIEZA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "09/05/2019"
+  },
+  {
+    "Nº": 377,
+    "Proveedor": "REINGRESO MATERIAL DE LIMPIEZA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "09/05/2019"
+  },
+  {
+    "Nº": 378,
+    "Proveedor": "reingreso pedio 148 (Cecilia Alvarado)",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "05/06/2019"
+  },
+  {
+    "Nº": 379,
+    "Proveedor": "SUPER POWER COMPUTADORAS de Veronica Haydee Alvarez",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 15000,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 381,
+    "Proveedor": "SUPER POWER COMPUTADORAS de Veronica Haydee Alvarez",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 15000,
+    "Nota de Entrega": "28/06/2019"
+  },
+  {
+    "Nº": 382,
+    "Proveedor": "JYJ CENTER",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 1850,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 383,
+    "Proveedor": "CCE TECHNOLOGY",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 2364,
+    "Nota de Entrega": "24/07/2019"
+  },
+  {
+    "Nº": 384,
+    "Proveedor": "PEMEEC de: SANDRA MARIELA TABORGA HERRERA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 4060,
+    "Nota de Entrega": "25/06/2019"
+  },
+  {
+    "Nº": 385,
+    "Proveedor": "COSWORLD TRADING SRL",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 719,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 386,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 3650,
+    "Nota de Entrega": "29/07/2019"
+  },
+  {
+    "Nº": 387,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 621,
+    "Nota de Entrega": "07/08/2019"
+  },
+  {
+    "Nº": 388,
+    "Proveedor": "NETCLOUD de: ALVARO LUIS NINA COTAÑA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 1470,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 389,
+    "Proveedor": "EICO CENTER de: Carmen Rosa Choque Rojas",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 420,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 390,
+    "Proveedor": "COSWORLD TRADING SRL",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 1290,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 391,
+    "Proveedor": "DESARROLLO DE SERVICIOS S.A.",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 14920,
+    "Nota de Entrega": "09/08/2019"
+  },
+  {
+    "Nº": 392,
+    "Proveedor": "SISMEING",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 420,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 393,
+    "Proveedor": "SISMEING de Veronica Nancy Laura Sanchez",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 905,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 394,
+    "Proveedor": "SUPER POWER COMPUTADORAS de Veronica Haydee Alvarez",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 974,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 395,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 991,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 396,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 23240,
+    "Nota de Entrega": "15/07/2019"
+  },
+  {
+    "Nº": 397,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 370,
+    "Nota de Entrega": "27/08/2019"
+  },
+  {
+    "Nº": 398,
+    "Proveedor": "FERRETERIA TODO DEAL de : JAVIER ALFREDO MOLINA HURTADO",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 2704,
+    "Nota de Entrega": "03/09/2019"
+  },
+  {
+    "Nº": 399,
+    "Proveedor": "7 MILIMETROS de: ALAN MAURICIO JAUREGUI MARQUEZ",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 1863,
+    "Nota de Entrega": "03/09/2019"
+  },
+  {
+    "Nº": 400,
+    "Proveedor": "FILS COMPANY SRL.",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 15960,
+    "Nota de Entrega": "04/09/2019"
+  },
+  {
+    "Nº": 401,
+    "Proveedor": "SERGRALTEC de: JUSTO FERNANDO LAURA QUISPE",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 34307,
+    "Nota de Entrega": "10/09/2019"
+  },
+  {
+    "Nº": 402,
+    "Proveedor": "TIGRE.COM de: ANGELICA AVILA LAURA DE GUTIERREZ",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 866,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 403,
+    "Proveedor": "SISMEING de Veronica Nancy Laura Sanchez",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 606,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 404,
+    "Proveedor": "JMM",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 1460,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 405,
+    "Proveedor": "DISEÑO Y MANTENIMIENTO EN TELECOMUNICACIONES C&II BOLIVIA SRL",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 51870,
+    "Nota de Entrega": "13/09/2019"
+  },
+  {
+    "Nº": 406,
+    "Proveedor": "dxt Soluciones de: Francisco Huanca Palli",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 21355,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 407,
+    "Proveedor": "ESSENTIAL BUSINESS CENTRE S.R.L.",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 117000,
+    "Nota de Entrega": "23/09/2019"
+  },
+  {
+    "Nº": 408,
+    "Proveedor": "YOEMIS FERRETERIA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 4960,
+    "Nota de Entrega": "26/09/2019"
+  },
+  {
+    "Nº": 409,
+    "Proveedor": "COSWORLD TRADING SRL",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 1290,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 410,
+    "Proveedor": "JMM",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 4380,
+    "Nota de Entrega": "26/09/2019"
+  },
+  {
+    "Nº": 411,
+    "Proveedor": "REINGRESO DE TOKEN - (Devolución de Dilian Quea, Sergio Bobka, Nelson Diaz, Guido Mamani e Ivan Miranda",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "30/09/2019"
+  },
+  {
+    "Nº": 412,
+    "Proveedor": "REINGRESO POR CORRECCION DE REGISTRO NOTA DE PEDIDO 0104",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 5,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 413,
+    "Proveedor": "EDITORIAL QUATRO HERMANOS de: NICASIO DAVILA ANZE",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 15000,
+    "Nota de Entrega": "10/10/2019"
+  },
+  {
+    "Nº": 414,
+    "Proveedor": "IMPORT - EXPORT SILVER de: JIM WINSOR PLATA PAYE",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 15312,
+    "Nota de Entrega": "18/10/2019"
+  },
+  {
+    "Nº": 415,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 9030,
+    "Nota de Entrega": "19/06/2019"
+  },
+  {
+    "Nº": 416,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 621,
+    "Nota de Entrega": "25/09/2019"
+  },
+  {
+    "Nº": 417,
+    "Proveedor": "CASA & CONST de Pilar Morales Bautista",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 1900,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 418,
+    "Proveedor": "ELECTRORED",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 13423.91,
+    "Nota de Entrega": "04/11/2019"
+  },
+  {
+    "Nº": 419,
+    "Proveedor": "REGULARIZACION DE TOKEN POR CONCLUSION DE CONTRATO, RENUNCIA Y DEVOLUCIONES POR: Elmer Mendoza (10 unidades), Ivan Flores, Angela Manzaneda, Noemi Mamani, Nicolás Laguna, José Coria, Dario Nina, Vladimir Leaño, Juan Felix Fernandez",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "22/11/2019"
+  },
+  {
+    "Nº": 420,
+    "Proveedor": "REINGRESO DE TOKEN POR CONCLUSION DE CONTRATO Hendrik Michael Ramos Suarez, reposición Inti Tonatiuh Rioja Guzmán",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "29/11/2019"
+  },
+  {
+    "Nº": 421,
+    "Proveedor": "REINGRESO DE LIBROS",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "29/11/2019"
+  },
+  {
+    "Nº": 422,
+    "Proveedor": "REINGRESO DE TOKEN POR RENUNCIA Y CONCLUSION DE CONTRATO: Jessica Llorenti, Belen Luna, Kantuta Muruchi, Eliana Onis, Luciana Guzman, Ariel Rivero, Rodrigo Martinez (2), Ivan Bellot, Bladimir Morales, Nayra Abal, Marco Moscoso, Maharshi Duran",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "20/12/2019"
+  },
+  {
+    "Nº": 423,
+    "Proveedor": "REINGRESO POR ERROR DE TRANSCRIPCION PEDIDO NRO. 219- PATRICIA GISBERTH",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "25/11/2019"
+  },
+  {
+    "Nº": 424,
+    "Proveedor": "REINGRESO POR ERROR DE TRANSCRIPCION PEDIDO NRO. 335- MARCO SOLARES",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "12/12/2019"
+  },
+  {
+    "Nº": 425,
+    "Proveedor": "REREINGRESO DE MATERIAL DE LIMPIEZA",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "25/11/2019"
+  },
+  {
+    "Nº": 426,
+    "Proveedor": "REINGRESO DE MATERIAL DE ESCRITORIO",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "25/11/2019"
+  },
+  {
+    "Nº": 427,
+    "Proveedor": "REINGRESO  DE TOKEN - VALERIA DUARTE",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "20/12/2019"
+  },
+  {
+    "Nº": 428,
+    "Proveedor": "REINGRESO DE TOKEN POR CONCLUSION DE CONTRATO: Ricardo Atahuachi, Karen Rodriguez, Florencio Gonzales, Hanz Quiros, Noemi Antezana, Margarita Callizaya, Ramiro Orozco y Rocio Velasquez",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "27/12/2019"
+  },
+  {
+    "Nº": 429,
+    "Proveedor": "REINGRESO DE TOKEN POR CONCLUSION DE CONTRATO: Rodrigo Uruchi, Claudia Leon, Luis Martinez, Varinia Irusta, Roger Aroa, Wilson Flores, Wilson Gutierrez, Diego Ticona, Horacio Lopez, Natalia Antezana",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "27/12/2019"
+  },
+  {
+    "Nº": 430,
+    "Proveedor": "REINGRESO DE TOKEN POR CONCLUSION DE CONTRATO Judith Diana Mamani Limachi",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "27/12/2019"
+  },
+  {
+    "Nº": 431,
+    "Proveedor": "REINGRESO DE TOKEN POR CONCLUSION DE CONTRATO:  Orlando Quintanilla Piuca, Claudia Chungara, Cecilia Calvimontes, Tamara Martinez, Wilmer Alex Quispe, Rodrigo Garcia, Duglas Apaza",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 0,
+    "Nota de Entrega": "06/01/2020"
+  },
+  {
+    "Nº": 432,
+    "Proveedor": "EMPRESA UNIPERSONAL HARRIAGUE",
+    "Encargado(a)": "CLAUDIA SEGURONDO MUIBA",
+    "Costo total": 10718.4,
+    "Nota de Entrega": "11/09/2019"
+  },
+  {
+    "Nº": 433,
+    "Proveedor": "SAWERS SRL",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 1850,
+    "Nota de Entrega": "26/02/2020"
+  },
+  {
+    "Nº": 434,
+    "Proveedor": "DINALSU \"DISTRIBUIDORA NACIONAL DE SUMINISTROS",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 18980,
+    "Nota de Entrega": "12/03/2020"
+  },
+  {
+    "Nº": 435,
+    "Proveedor": "IMPRENTA CORZA DE \"ZAMBRANA RODRIGUEZ NORKA ZULEMA",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 1950,
+    "Nota de Entrega": "20/04/2020"
+  },
+  {
+    "Nº": 436,
+    "Proveedor": "TIME OFFICE",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 7588.5,
+    "Nota de Entrega": "05/06/2020"
+  },
+  {
+    "Nº": 437,
+    "Proveedor": "PRUROBIN",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 63,
+    "Nota de Entrega": "05/06/2020"
+  },
+  {
+    "Nº": 438,
+    "Proveedor": "SAWERS SRL",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 41964,
+    "Nota de Entrega": "03/06/2020"
+  },
+  {
+    "Nº": 439,
+    "Proveedor": "PRUROBIN",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 2041.2,
+    "Nota de Entrega": "05/06/2020"
+  },
+  {
+    "Nº": 440,
+    "Proveedor": "OPENBOX IMPORTACIONES & SERVICIOS",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 49928,
+    "Nota de Entrega": "23/06/2020"
+  },
+  {
+    "Nº": 441,
+    "Proveedor": "OPENBOX IMPORTACIONES & SERVICIOS",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 9984,
+    "Nota de Entrega": "08/07/2020"
+  },
+  {
+    "Nº": 442,
+    "Proveedor": "EDITORIAL DEL ESTADO PLURINACIONAL DE BOLIVIA",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 1040,
+    "Nota de Entrega": "28/07/2020"
+  },
+  {
+    "Nº": 443,
+    "Proveedor": "PEMEEC de: SANDRA MARIELA TABORGA HERRERA",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 49198.82,
+    "Nota de Entrega": "21/09/2020"
+  },
+  {
+    "Nº": 444,
+    "Proveedor": "IMPRENTA CORZA DE \"ZAMBRANA RODRIGUEZ NORKA ZULEMA",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 4930,
+    "Nota de Entrega": "29/10/2020"
+  },
+  {
+    "Nº": 445,
+    "Proveedor": "FULL OFFICE",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 4025,
+    "Nota de Entrega": "01/03/2021"
+  },
+  {
+    "Nº": 446,
+    "Proveedor": "MADEPA",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 1400,
+    "Nota de Entrega": "08/03/2021"
+  },
+  {
+    "Nº": 447,
+    "Proveedor": "MADEPA",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 1400,
+    "Nota de Entrega": "08/03/2021"
+  },
+  {
+    "Nº": 448,
+    "Proveedor": "MADEPA",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 1400,
+    "Nota de Entrega": "08/03/2021"
+  },
+  {
+    "Nº": 449,
+    "Proveedor": "ECOLED",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 188.87,
+    "Nota de Entrega": "29/03/2021"
+  },
+  {
+    "Nº": 450,
+    "Proveedor": "UABA",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 55900,
+    "Nota de Entrega": ""
+  },
+  {
+    "Nº": 451,
+    "Proveedor": "PCSTORE",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 640.67,
+    "Nota de Entrega": "06/10/2021"
+  },
+  {
+    "Nº": 452,
+    "Proveedor": "FILS COMPANY UNIBIENES",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 150,
+    "Nota de Entrega": "05/10/2021"
+  },
+  {
+    "Nº": 453,
+    "Proveedor": "CERRO AZUL",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 1750,
+    "Nota de Entrega": "06/10/2021"
+  },
+  {
+    "Nº": 454,
+    "Proveedor": "PAPELBOL",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 3229,
+    "Nota de Entrega": "29/10/2021"
+  },
+  {
+    "Nº": 455,
+    "Proveedor": "PAPELBOL",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 45,
+    "Nota de Entrega": "02/11/2021"
+  },
+  {
+    "Nº": 456,
+    "Proveedor": "LIDITA SRL",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 340,
+    "Nota de Entrega": "23/11/2021"
+  },
+  {
+    "Nº": 457,
+    "Proveedor": "DGT",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 63,
+    "Nota de Entrega": "11/11/2021"
+  },
+  {
+    "Nº": 458,
+    "Proveedor": "PAPELBOL",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 15500,
+    "Nota de Entrega": "17/11/2021"
+  },
+  {
+    "Nº": 459,
+    "Proveedor": "PAPELBOL",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 4200,
+    "Nota de Entrega": "22/11/2021"
+  },
+  {
+    "Nº": 460,
+    "Proveedor": "OLIMPIA",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 13052,
+    "Nota de Entrega": "09/12/2021"
+  },
+  {
+    "Nº": 461,
+    "Proveedor": "PAPELBOL",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 985.5,
+    "Nota de Entrega": "18/01/2022"
+  },
+  {
+    "Nº": 462,
+    "Proveedor": "PAPELBOL",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 1196,
+    "Nota de Entrega": "04/01/2022"
+  },
+  {
+    "Nº": 463,
+    "Proveedor": "PAPELBOL",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 781.4,
+    "Nota de Entrega": "04/01/2022"
+  },
+  {
+    "Nº": 464,
+    "Proveedor": "LIBRERIA OLIMPIA",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 7800,
+    "Nota de Entrega": "16/02/2022"
+  },
+  {
+    "Nº": 466,
+    "Proveedor": "OPENBOX IMPORTACIONES & SERVICIOS",
+    "Encargado(a)": "ADMIN",
+    "Costo total": 68,
+    "Nota de Entrega": "12/11/2022"
+  },
+  {
+    "Nº": 467,
+    "Proveedor": "P&CH COMPUTADORAS",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 15.9,
+    "Nota de Entrega": "01/04/2023"
+  },
+  {
+    "Nº": 468,
+    "Proveedor": "FULLOFFICE",
+    "Encargado(a)": "DAVID ADUVIRI CALLIZAYA",
+    "Costo total": 1.9,
+    "Nota de Entrega": "19/04/2023"
+  }
+]
